@@ -1,4 +1,3 @@
-# Copyright © 2023 Apple Inc.
 
 import argparse
 import copy
